@@ -68,7 +68,7 @@
                                 placeholder="Password">
                         </div>
                         <button type="submit" class="btn btn-primary formbtn">Submit</button>
-                        <p id="text2">or</p>
+                        <!-- <p id="text2">or</p> -->
                         <i class="icon fa-brands fa-google"></i>
                         <i class="icon fa-brands fa-facebook"></i>
                         <i class="icon fa-brands fa-github"></i>

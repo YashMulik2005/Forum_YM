@@ -67,7 +67,7 @@
                             <input type="password" class="form-control" id="exampleInputPassword1" name="password"
                                 placeholder="Password">
                         </div>
-                        <!-- <button type="submit" class="btn btn-primary formbtn">Submit</button> -->
+                        <button type="submit" class="btn btn-primary formbtn">Submit</button>
                         <p id="text2">or</p>
                         <i class="icon fa-brands fa-google"></i>
                         <i class="icon fa-brands fa-facebook"></i>
